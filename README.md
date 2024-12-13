@@ -1,9 +1,9 @@
 # Hello, I'm Kuroix 👋
 
-![Itachi's Sharingan](https://example.com/itachi_sharingan_image.png)
+
 
 ## Profile Views
-![Profile Views](https://img.shields.io/badge/Views-1234-red?style=flat-square&logo=github)
+![Profile Views](https://img.shields.io/badge/Views-1.000.000-red?style=flat-square&logo=github)
 
 ---
 
